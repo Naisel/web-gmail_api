@@ -6,9 +6,8 @@
 }
 /* navbar*/
 .navbar{
-    position: fixed;
     width: 100%;
-    padding: 15px 10px; /*top and bottom 15 side 0*/
+    padding: 15px 10px; /*top and bottom 15 side 10*/
     background-color: #EA4335;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     transition: all 0.3s ease;
